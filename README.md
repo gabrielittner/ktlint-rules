@@ -8,7 +8,7 @@ Add a Gradle dependency:
 
 ```groovy
 ktlint "com.github.shyiko:ktlint:0.29.0"
-ktlint "com.gabrielittner.ktlint:ktlint-rules:0.1.0"
+ktlint "com.gabrielittner.ktlint:ktlint-rules:0.2.0"
 ```
 
 Snapshots of the development version are available in [Sonatype's `snapshots` repository][snap].
