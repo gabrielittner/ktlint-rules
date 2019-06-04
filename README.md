@@ -11,7 +11,7 @@ Add a Gradle dependency:
 
 ```groovy
 ktlint "com.pinterest.ktlint:ktlint:0.33.0"
-ktlint "com.gabrielittner.ktlint:ktlint-rules:0.2.0"
+ktlint "com.gabrielittner.ktlint:ktlint-rules:0.3.0"
 ```
 
 Snapshots of the development version are available in [Sonatype's `snapshots` repository][snap].

@@ -1,7 +1,14 @@
 Change Log
 ==========
 
-Version 0.2.0 *(2018-01-08)*
+Version 0.3.0 *(2019-06-04)*
+----------------------------
+
+- update to Pinterest dependency
+- switch to `ImportOrderingRule` in ktlint's experimental rule set
+- add disabled `NoWildcardImportsRule` and `PackageNameRule`
+
+Version 0.2.0 *(2019-01-08)*
 ----------------------------
 
 - change dependencies to `compileOnly` for ktlint-gradle
