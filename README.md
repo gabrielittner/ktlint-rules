@@ -1,13 +1,16 @@
 # Ktlint Rules
 
-A set of custom ktlint rules.
+A set of ktlint rules:
+- ktlint's experimental import ordering rule
+- ktlint's disabled no wildcard imports rule
+- ktlint's disabled package name rule
 
 ## Download
 
 Add a Gradle dependency:
 
 ```groovy
-ktlint "com.github.shyiko:ktlint:0.29.0"
+ktlint "com.pinterest.ktlint:ktlint:0.33.0"
 ktlint "com.gabrielittner.ktlint:ktlint-rules:0.2.0"
 ```
 

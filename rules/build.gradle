@@ -6,6 +6,8 @@ apply plugin: "com.vanniktech.maven.publish"
 dependencies {
     compileOnly deps.kotlin_stdlib
     compileOnly deps.ktlint_core
+    compileOnly deps.ktlint_standard
+    compileOnly deps.ktlint_experimental
 
     testImplementation deps.ktlint_test
     testImplementation deps.testng
