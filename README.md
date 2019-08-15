@@ -1,3 +1,7 @@
+# Deprecated
+
+Ktlint ships with the import ordering rule enabled by default in the standard rule set now. It also has the ability to disable specific rules making it possible to enable specific experimental rules.
+
 # Ktlint Rules
 
 A set of ktlint rules:
